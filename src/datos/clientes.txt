@@ -1,0 +1,5 @@
+Carlos Nuñez Herrera,19.329.558-4,23,123456789,SI
+Priscilla Riffo Robledo,19.330.028-6,23,123456789,NO
+Pablo Perez Navarro,19.425.356-3,23,123456789,NO
+Eduardo Palma Gutierrez,18.232.962-2,24,123456789,NO
+Cristina Herrera Mendoza,18.657.233-8,24,123456789,SI
